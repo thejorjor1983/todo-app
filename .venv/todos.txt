@@ -1,0 +1,2 @@
+clean
+fix the computer
