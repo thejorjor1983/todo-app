@@ -3,3 +3,4 @@ Fix the computer
 Play chess
 Play tennis
 Play basketball
+Master Python
